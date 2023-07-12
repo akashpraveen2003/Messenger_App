@@ -213,6 +213,10 @@ public class Messenger_App {
 			{
 				break;
 			}
+			default:
+			{
+				System.out.println("Enter a valid input");
+			}
 			}
 			if(input==4)
 			{
